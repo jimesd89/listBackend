@@ -1,0 +1,6 @@
+@listaBack_HostAddress = http://localhost:5263
+
+GET {{listaBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
